@@ -1,5 +1,4 @@
-
-<img width="736" height="485" alt="_ (2)" src="https://github.com/user-attachments/assets/03692932-1033-4df9-9b1b-5b6aaccece76" />
+<img width="1000" height="1000" alt="Untitled5_20260417164436" src="https://github.com/user-attachments/assets/2581824c-0db7-4197-90df-5b60c3da1fa0" />
 
 Hi there, I am Kat, an aspiring CS major @ UC Irvine, building systems and projects with real-world applications!
 
