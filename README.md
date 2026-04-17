@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<img width="736" height="485" alt="_ (2)" src="https://github.com/user-attachments/assets/03692932-1033-4df9-9b1b-5b6aaccece76" />
+
+Hi there, I am Kat, an aspiring CS major @ UC Irvine, building systems and projects with real-world applications!
 
 <!--
 **kkstanford-zip/kkstanford-zip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
